@@ -1,0 +1,2 @@
+[0313/222505.074:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Cansuck\reports: Access is denied. (0x5)
+[0313/223219.993:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Cansuck\reports: Access is denied. (0x5)
